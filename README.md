@@ -2,8 +2,7 @@
 
 ## 🎓 About Me
 
-I am a **Ph.D. candidate** at Florida International University, working as a **Research Assistant** at the **Systems Security Lab (SecLab)** under the supervision of **Dr. Amin Kharraz**. My research focuses on **web and browser security**, with an emphasis on applying **data-driven and machine learning techniques** to detect emerging threats at scale. This includes analyzing **LLM-based browser agents** and automated interactions in the age of the agentic web, as well as developing models to distinguish **human behavior from automated agents**.
-
+I am a **Ph.D. candidate** at Florida International University, working as a **Research Assistant** at the **Systems Security Lab (SecLab)** under the supervision of **Dr. Amin Kharraz**. My research focuses on **web security** aspect of **Automated Web Agents**, applying **data-driven and machine learning techniques** to detect emerging threats at scale. This includes analyzing **LLM-based browser agents** and automated interactions in the age of the agentic web, as well as developing models to distinguish **human behavior from automated agents**.
 In addition to my academic research, I bring nearly **four years of industry experience** as a **Site Reliability Engineer and Software Engineer**, providing a strong foundation in building **secure and scalable systems**.
 
 ## 📄 Resume
@@ -102,8 +101,8 @@ In addition to my academic research, I bring nearly **four years of industry exp
 - **Mentor:** Research methodologies, coding practices, and project planning for graduate students - 2022-2025
 
 ## 📊 GitHub Stats
-
-![Behzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=behzad-ost&show_icons=true&theme=radical)
+<!-- 
+![Behzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=behzad-ost&show_icons=true&theme=radical) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=behzad-ost&layout=compact&theme=radical)
 
