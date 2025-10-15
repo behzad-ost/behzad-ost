@@ -3,7 +3,8 @@
 ## 🎓 About Me
 
 I am a **Ph.D. candidate** at Florida International University, working as a **Research Assistant** at the **Systems Security Lab (SecLab)** under the supervision of **Dr. Amin Kharraz**. My research focuses on **web security** aspect of **Automated Web Agents**, applying **data-driven and machine learning techniques** to detect emerging threats at scale. This includes analyzing **LLM-based browser agents** and automated interactions in the age of the agentic web, as well as developing models to distinguish **human behavior from automated agents**.
-In addition to my academic research, I bring nearly **four years of industry experience** as a **Site Reliability Engineer and Software Engineer**, providing a strong foundation in building **secure and scalable systems**.
+In addition to my academic research, I bring over **8 years of experience** as a **Site Reliability Engineer and Software Engineer**, Strong background in **Linux** administration, network protocols, and **DevOps**
+practices, with proven ability to adapt between software engineering, infrastructure operations, and research.
 
 ## 📄 Resume
 
