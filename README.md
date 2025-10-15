@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a Ph.D. candidate at Florida International University, working as a Research Assistant at the Systems Security Lab (SecLab) under the supervision of Dr. Amin Kharraz. My research focuses on web and browser security, with an emphasis on impact of automated web agents by applying data-driven and machine learning techniques to detect emerging threats. This includes analyzing LLM-based browser agents and automated interactions in the age of the agentic web, as well as developing models to distinguish human behavior from automated agents. In addition to my academic research, I bring nearly four years of industry experience as a Site Reliability Engineer and Software Engineer, providing a strong foundation in building secure and scalable systems.
+
 <!--
 **behzad-ost/behzad-ost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
