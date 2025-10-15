@@ -6,6 +6,10 @@ I am a **Ph.D. candidate** at Florida International University, working as a **R
 
 In addition to my academic research, I bring nearly **four years of industry experience** as a **Site Reliability Engineer and Software Engineer**, providing a strong foundation in building **secure and scalable systems**.
 
+## 📄 Resume
+
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/behzad-ost/behzad-ost/blob/main/Behzad%20Ousat%20Resume%20-%20Oct%2025.pdf)
+
 ## 🔬 Research Interests
 
 - **Web & Browser Security**
@@ -31,52 +35,21 @@ In addition to my academic research, I bring nearly **four years of industry exp
 
 ## ☁️ Cloud Expertise
 
-### Amazon Web Services
-**Services:** EC2, Beanstalk, S3, RDS, DocumentDB, VPC, IAM, CloudWatch, AWS Sagemaker
+| Platform | Services & Skills |
+|----------|------------------|
+| **Amazon Web Services** | EC2, Beanstalk, S3, RDS, DocumentDB, VPC, IAM, CloudWatch, AWS Sagemaker |
+| **Google Cloud Platform** | Compute Engine, GKE, Vertex AI, MLflow, AutoML |
 
-### Google Cloud Platform
-**Services:** Compute Engine, GKE, Vertex AI, MLflow, AutoML
+### 🚀 Google Cloud ML Engineer Learning Path - In Progress (100+ Hours)
 
-### 🚀 Google Cloud Machine Learning Engineer Learning Path - In Progress (100+ Hours)
-
-#### 📊 Data & Feature Engineering
-- BigQuery ML
-- SQL-based ML
-- Data Preprocessing
-- Feature Engineering
-
-#### 🤖 Model Development
-- TensorFlow
-- Keras
-- Vertex AI Workbench
-- Model Training
-- Hyperparameter Tuning
-
-#### ⚙️ MLOps
-- Vertex AI Pipelines
-- Feature Store
-- Model Registry
-- Model Deployment
-- Model Monitoring
-- CI/CD for ML
-
-#### 🧠 Generative AI & LLMs
-- Large Language Models
-- Generative AI on GCP
-- Prompt Engineering
-- Fine-tuning GenAI
-- Generative AI Studio
-
-#### ✅ Responsible AI
-- Fairness & Bias Mitigation
-- Explainable AI
-- Model Interpretability
-- AI Privacy & Safety
-
-#### 🌐 Cloud & Infrastructure
-- Vertex AI Lifecycle
-- Cloud ML Pipelines
-- Scalable ML Design
+| Category | Skills & Technologies |
+|----------|----------------------|
+| 📊 **Data & Feature Engineering** | BigQuery ML, SQL-based ML, Data Preprocessing, Feature Engineering |
+| 🤖 **Model Development** | TensorFlow, Keras, Vertex AI Workbench, Model Training, Hyperparameter Tuning |
+| ⚙️ **MLOps** | Vertex AI Pipelines, Feature Store, Model Registry, Model Deployment, Model Monitoring, CI/CD for ML |
+| 🧠 **Generative AI & LLMs** | Large Language Models, Generative AI on GCP, Prompt Engineering, Fine-tuning GenAI, Generative AI Studio |
+| ✅ **Responsible AI** | Fairness & Bias Mitigation, Explainable AI, Model Interpretability, AI Privacy & Safety |
+| 🌐 **Cloud & Infrastructure** | Vertex AI Lifecycle, Cloud ML Pipelines, Scalable ML Design |
 
 ## 📚 Publications
 
