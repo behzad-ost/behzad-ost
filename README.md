@@ -22,16 +22,18 @@ practices, with proven ability to adapt between software engineering, infrastruc
 ## 🏢 Professional Experience
 
 ### 🎓 Graduate Research Assistant | Florida International University (2022 - Present)
-- Analyzed Automated Web Agents, specifically LLM-based Browser Agents and their impact on modern web, showing over 90% success in bypassing reCaptcha v3
-- Design and train Deep Learning models (LSTM, Transformer) for browser interaction classification, achieving over 95% accuracy
-- Implemented end-to-end ML Pipelines using Python, PyTorch, Scikit-Learn, and LLMs services
-- Led research projects in collaboration with Microsoft Security, contributing to Open-Source research tools
+- Developed LLM-powered Browser Agents to bypass complex web challenges such as reCaptcha with over 90% success rate, demonstrating critical detection requirements in modern agentic web.
+- Implemented ML pipelines to classify users from browser interaction data, creating Time Series data collection, feature extraction, and model training using PyTorch, Scikit-Learn, and LLM services.
+- Built a text Captcha solving framework with 80% success rate in real-world websites in a single attempt by using Tensorflow Object Detection trained on data from over 1M websites.
+- Analyzed ecosystem-wide Vulnerability Trends by unifying GitHub Advisory and Snyk.io reports across 10+ package managers, uncovering CWE patterns, ecosystem differences, and malicious packages.
+- Detected zero-day anomalies within encrypted network flows by implementing Open Set Recognition models in TensorFlow, leveraging feature extraction on terabytes of PCAP data.
+- Led research projects in collaboration with faculty, students, and external teams, including Microsoft Security, contributing to open-source tools for user behavior analysis and phishing detection.
 
-### 🚀 Senior Site Reliability and Software Engineer | Tapsi (2017 - 2021)
-- Deployed and maintained infrastructure for 60+ services using Kubernetes, PostgreSQL, and MongoDB
-- Built scalable data pipelines with Kafka and Apache Spark for high-throughput system events
-- Implemented comprehensive monitoring using Prometheus, Grafana, Jaeger, and other tools
-- Developed end-to-end CI/CD pipelines for ML deployments
+### 🚀 Platform Technical Team Lead | Tapsi (2017 - 2021)
+- Ensured 99% uptime for 60 microservices by maintaining the infrastructure of over 100 Ubuntu servers for compute clusters and databases across Kubernetes, PostgreSQL, and MongoDB.
+- Led platform team to design and build Node.js and Python gRPC and Socket message passing libraries with integrated Prometheus and healthcheck probes for full observability in Grafana dashboards.
+- Accelerated rapid adoption of new technologies such as MinIO, Vault, Kafka, and Spark, researching and deploying production-ready solutions to enhance platform reliability and data processing capabilities.
+- Reduced deployment errors and established automated rollouts by implementing CI/CD pipelines to include canary-testing, staging, and production environments, utilizing Bash and Ansible.
 
 ## ☁️ Cloud Expertise
 
