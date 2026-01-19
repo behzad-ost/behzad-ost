@@ -2,38 +2,41 @@
 
 ## 🎓 About Me
 
-I am a **Ph.D. candidate** at Florida International University, working as a **Research Assistant** at the **Systems Security Lab (SecLab)** under the supervision of **Dr. Amin Kharraz**. My research focuses on **web security** aspect of **Automated Web Agents**, applying **data-driven and machine learning techniques** to detect emerging threats at scale. This includes analyzing **LLM-based browser agents** and automated interactions in the age of the agentic web, as well as developing models to distinguish **human behavior from automated agents**.
-In addition to my academic research, I bring over **8 years of experience** as a **Site Reliability Engineer and Software Engineer**, Strong background in **Linux** administration, network protocols, and **DevOps**
-practices, with proven ability to adapt between software engineering, infrastructure operations, and research.
+I am a **Ph.D. candidate** at Florida International University, working as a **Research Assistant** at the **Systems Security Lab (SecLab)** under the supervision of **Dr. Amin Kharraz**. My research focuses on utlizing **data-driven and machine learning techniques** to detect emerging threats for web application. This includes analyzing **LLM-based browser agents** and automated interactions in the age of the agentic web, as well as developing models to distinguish **human behavior from automated agents**.
+In addition to my academic research, I have experience as a **Site Reliability Engineer and Software Engineer**, with a strong background in **Linux** administration, network protocols, and **DevOps** practices, and proven ability to adapt between software engineering, infrastructure operations, and research.
 
 ## 📄 Resume
 
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/behzad-ost/behzad-ost/blob/main/Behzad%20Ousat%20Resume%20-%20Oct%2025.pdf)
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/behzad-ost/behzad-ost/blob/main/Behzad%20Ousat%CV%20-%Jan%2026.pdf)
 
 ## 🔬 Research Interests
 
-- **Web & Browser Security**
-- **Machine Learning for Security**
+- **Machine Learning for Web Security**
 - **Automated Web Agents & Bot Detection**
+- **Web & Browser Security**
 - **CAPTCHA Security Analysis**
-- **Injection Attack Detection**
 - **Open-Source Vulnerability Analysis**
 
 ## 🏢 Professional Experience
 
 ### 🎓 Graduate Research Assistant | Florida International University (2022 - Present)
-- Developed LLM-powered Browser Agents to bypass complex web challenges such as reCaptcha with over 90% success rate, demonstrating critical detection requirements in modern agentic web.
-- Implemented ML pipelines to classify users from browser interaction data, creating Time Series data collection, feature extraction, and model training using PyTorch, Scikit-Learn, and LLM services.
-- Built a text Captcha solving framework with 80% success rate in real-world websites in a single attempt by using Tensorflow Object Detection trained on data from over 1M websites.
-- Analyzed ecosystem-wide Vulnerability Trends by unifying GitHub Advisory and Snyk.io reports across 10+ package managers, uncovering CWE patterns, ecosystem differences, and malicious packages.
-- Detected zero-day anomalies within encrypted network flows by implementing Open Set Recognition models in TensorFlow, leveraging feature extraction on terabytes of PCAP data.
-- Led research projects in collaboration with faculty, students, and external teams, including Microsoft Security, contributing to open-source tools for user behavior analysis and phishing detection.
+- Developed end-to-end ML pipelines using Pandas, PyTorch, and Scikit-Learn to collect and analyze billions of real-world noisy browser interaction artifacts, classifying human vs automated agents with 95%.
+- Trained and fine-tuned deep learning models on terabytes of PCAP data to detect zero-day network attack classes, deploying Open Set Recognition models to classify unknown traffic with 85% accuracy.
+- Built and evaluated LLM-powered Browser Agents with prompt optimization, achieving >90% success in web crawling tasks and producing large-scale labeled behavioral datasets for downstream modeling.
+- Developed large-scale Object Detection pipelines trained on millions of text CAPTCHAs, achieving 80%+ solve rates across 1M+ production websites, enabling empirical analysis of CAPTCHA prevalence.
+- Built large-scale web crawling and analysis pipelines for nearly 30K reported vulnerabilities from across 10+ package ecosystems, identifying trends, malicious packages, and supply-chain attack patterns.
+- Investigated development practices, code reuse, and popular packages in over 300K Phishing websites in collaborations with Microsoft Security, enabling scalable detection of malicious websites. (DIMVA ’24).
 
 ### 🚀 Platform Technical Team Lead | Tapsi (2017 - 2021)
-- Ensured 99% uptime for 60 microservices by maintaining the infrastructure of over 100 Ubuntu servers for compute clusters and databases across Kubernetes, PostgreSQL, and MongoDB.
-- Led platform team to design and build Node.js and Python gRPC and Socket message passing libraries with integrated Prometheus and healthcheck probes for full observability in Grafana dashboards.
-- Accelerated rapid adoption of new technologies such as MinIO, Vault, Kafka, and Spark, researching and deploying production-ready solutions to enhance platform reliability and data processing capabilities.
-- Reduced deployment errors and established automated rollouts by implementing CI/CD pipelines to include canary-testing, staging, and production environments, utilizing Bash and Ansible.
+- Led platform team to migrate 60+ microservices to Kubernetes, Coordinated with backend teams, onboarded
+developers on technical workflows through workshops, and presented improvements to stakeholders.
+- Maintained 99% uptime for microservices by operating infrastructure of over 100 Ubuntu servers for compute
+clusters and databases across Kubernetes, PostgreSQL, and MongoDB.
+- Established On-call Program to handle ad hoc requests, shielding infrastructure engineers from interruptions.
+- Reduced deployment errors and established automated rollouts by implementing CI/CD pipelines to include canary-testing, staging, and production environments utilizing Bash and Ansible.
+- Developed scalable Node.js and Python message passing libraries based on gRPC and RabbitMQ, integrating Prometheus and Grafana dashboards, reducing Mean Time to Resolution (MTTR) by 50%.
+- Built and optimized scalable data pipelines with Kafka and Apache Spark to process 10K events/second across services, including Python ML microservices and data analytics workflows.
+- Designed and implemented a low-latency WebSocket service backed by Redis pub/sub to deliver critical data to mobile apps in real-time (<50ms), providing guaranteed delivery and engagement in high-traffic conditions.
 
 ## ☁️ Cloud Expertise
 
@@ -123,9 +126,3 @@ practices, with proven ability to adapt between software engineering, infrastruc
 - ☁️ Advancing **Google Cloud ML Engineering** skills through comprehensive learning path
 - 📝 Publishing research in **top-tier security conferences**
 - 🛡️ Contributing to **open-source security tools**
-
----
-
-*"Building secure, scalable systems through the intersection of machine learning and cybersecurity."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=behzad-ost&color=blue&style=flat-square)
