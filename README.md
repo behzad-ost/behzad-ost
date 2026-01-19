@@ -7,7 +7,7 @@ In addition to my academic research, I have experience as a **Site Reliability E
 
 ## 📄 Resume
 
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/behzad-ost/behzad-ost/blob/main/Behzad%20Ousat%CV%20-%Jan%2026.pdf)
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/behzad-ost/behzad-ost/blob/main/Behzad%20Ousat%20CV%20-%20Jan%2026.pdf)
 
 ## 🔬 Research Interests
 
